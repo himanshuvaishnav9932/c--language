@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+main()
+{
+  int n;
+  printf("enter your first number:");
+  scanf("%d %d",&a);
+  
+  printf("enter your second number ");
+  scanf("%d %d",&b);
+  
+  while("a+b");
+  {
+  
+  }
+}
