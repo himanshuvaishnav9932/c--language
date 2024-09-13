@@ -1,0 +1,13 @@
+#include<stdio.h>
+ main()
+{
+
+  int n=10;
+  printf ("enter a number:");
+  scanf("%d",&n);
+  while (n>-10);
+  {
+   
+  }
+  
+}
